@@ -1,1 +1,1 @@
-Tous les Tp de TextMining
+Comment traiter et analyser les données textuelles.
